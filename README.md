@@ -9,7 +9,7 @@
 <br>
 
 <h3 align="center">
-	🚀 Join to the <a href="http://eepurl.com/cWWRrD">Steroidesign Weekly</a> newsletter! 🚀 
+	🚀 Join to the <a href="http://eepurl.com/cWWRrD">Steroidesign Weekly</a> newsletter! 🚀
 	<br> We'll submit a new theme every week (we know it's crazy, but it's not impossible 😵).
 </h3>
 <h3 align="center">Show us your interest by signing up, so we'll know that there are people interested in this.</h3>
@@ -17,11 +17,11 @@
 <br>
 
 <p align="center">
-	Made with ❤ & ☕ by 
-		<a href="https://www.twitter.com/rosa7082" target="_blank">@rosa7082</a> 
-		& 
-		<a href="https://www.twitter.com/seruda" target="_blank">@seruda</a> 
-		in 
+	Made with ❤ & ☕ by
+		<a href="https://www.twitter.com/rosa7082" target="_blank">@rosa7082</a>
+		&
+		<a href="https://www.twitter.com/seruda" target="_blank">@seruda</a>
+		in
 		<a href="https://www.google.com/maps/place/Portland,OR" target="_blank">Portland, OR</a>
 		.
 </p>
@@ -55,7 +55,7 @@ Contributions are more than welcome.
 	- [Medium](#medium) (In Progress)
 	- [Product Hunt](#product-hunt) (Coming soon)
 	- [Asana](#asana) (Coming soon)
-	- [Suggest us the next one](#suggest-us-the-next-one)
+	- [Suggest the next one](#suggest-us-the-next-one)
 - [License](#license)
 
 <br>
@@ -117,7 +117,7 @@ Really you don´t need an **'installation'**, you just could clone the project, 
 git clone https://github.com/sergioruizdavila/startups-themes.git projectname
 ```
 
-2. Install gulp, bower and express components: 
+2. Install gulp, bower and express components:
 ```shell
 npm install
 ```
@@ -154,7 +154,7 @@ It's very simple, you have to copy the **theme** folder into your own project, i
 
 - ***core:*** Here are all the base styles of your project, here you find a file named **_global.scss** which contains all the global variables, helper classes, and base classes to reset the styles of some global elements such as the body, H tags, labels, etc.
 
-- ***app.scss:*** This is the parent file which contains a reference to all other styles: 
+- ***app.scss:*** This is the parent file which contains a reference to all other styles:
 
 <h3 align="center">
 	<img src="https://cdn.rawgit.com/sergioruizdavila/startups-themes/d6b7a6e5/www/assets/images/app_file.png" alt="app file">
@@ -195,10 +195,10 @@ We used this theme in other own project: [http://www.waysily.com](http://www.way
 ### Medium
 Status: ***In Progress***
 
-### Product Hunt 
+### Product Hunt
 Status: ***Coming soon***
 
-### Asana 
+### Asana
 Status: ***Coming soon***
 
 <br>
